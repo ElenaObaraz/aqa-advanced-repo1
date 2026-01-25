@@ -1,4 +1,3 @@
-/* jshint esversion: 6 */
 let num = 6;
 let i = 1;
 

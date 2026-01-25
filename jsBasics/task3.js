@@ -1,5 +1,3 @@
-/* jshint esversion: 6 */
-
 let age = 17;
 const isAdult = age >= 18;
 

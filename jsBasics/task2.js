@@ -1,4 +1,3 @@
-/* jshint esversion: 6 */
 import chalk from 'chalk';
 
 let player1 = "Joe";

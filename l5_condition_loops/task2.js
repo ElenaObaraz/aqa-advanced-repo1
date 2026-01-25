@@ -1,4 +1,3 @@
-/* jshint esversion: 6 */
 let averageGrade = 88;
 
 switch (true) {

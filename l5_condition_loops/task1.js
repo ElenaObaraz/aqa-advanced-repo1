@@ -1,5 +1,3 @@
-/* jshint esversion: 6 */
-
 let averageGrade = 93;
 
 if (averageGrade < 60) {
