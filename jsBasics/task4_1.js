@@ -1,4 +1,3 @@
-/* jshint esversion: 6 */
 /* jshint esversion: 7*/
 
 let radius = 5;
