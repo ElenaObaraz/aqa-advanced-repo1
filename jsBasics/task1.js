@@ -1,7 +1,7 @@
 import chalk from 'chalk';
 
 /*type of string*/
-let course = "QA Automation JavaScript";
+let course = 'QA Automation JavaScript';
 console.log(chalk.red.bold(course));
 
 /*type of number*/
@@ -13,8 +13,8 @@ let isAbleFinish = true;
 console.log(isAbleFinish);
 
 /*type of undefined*/
-let rankInClass = undefined;
-console.log(rankInClass);
+//let rankInClass = undefined;
+//console.log(rankInClass);
 
 /*type of null*/
 let finishDate = null;
